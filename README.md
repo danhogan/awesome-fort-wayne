@@ -1,6 +1,6 @@
-# awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-fort-wayne [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}devs Slack](https://azdevs.org).
+Awesome List for Fort Wayne.
 
 * [Resources for Organization](#resources-for-organization)
 * [Coworking Spaces](#coworking-spaces)
@@ -8,10 +8,10 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [Dev-Friendly Space](#dev-friendly-spaces)
 * [Hackerspaces and Makerspaces](#hackerspaces-and-makerspaces)
 * [Code Academies](#code-academies)
-* [Dev Shops in Phoenix](#dev-shops-in-phoenix)
+* [Dev Shops in Fort Wayne](#dev-shops-in-fort-wayne)
 * [Meetups](#meetups)
 * [Homegrown Open-Source Software](#homegrown-open-source-software)
-* [Companies With Devs In Phoenix](#companies-with-devs-in-phoenix)
+* [Companies With Devs In Fort Wayne](#companies-with-devs-in-fort-wayne)
 
 ## Resources for Organization
 
@@ -76,7 +76,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * Interface Technical Training (Windows/Ops focus) - [https://www.interfacett.com/](https://www.interfacett.com/)
 * University of Arizona Coding Boot Camp - [https://codingbootcamp.ce.arizona.edu/](https://codingbootcamp.ce.arizona.edu/)
 
-## Dev Shops In Phoenix
+## Dev Shops In Fort Wayne
 
 * Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
 * AKOS - [https://akosweb.com/](https://akosweb.com/)
@@ -134,7 +134,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [redux-thunks](https://github.com/w33ble/redux-thunks) - Redux action creators meets redux-thunk, best used along side redux-actions, redux-act, or similar
 * [teraslice](https://github.com/terascope/teraslice) - Scalable data processing pipelines in JavaScript.
 
-## Companies With Devs In Phoenix
+## Companies With Devs In Fort Wayne
 
 * &yet - [https://andyet.com/](https://andyet.com/)
 * Able Android - [https://www.ableandroid.com](https://www.ableandroid.com)
