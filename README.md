@@ -10,165 +10,63 @@ Awesome List for Fort Wayne.
 * [Code Academies](#code-academies)
 * [Dev Shops in Fort Wayne](#dev-shops-in-fort-wayne)
 * [Meetups](#meetups)
+* [Conferences](#conferences)
 * [Homegrown Open-Source Software](#homegrown-open-source-software)
 * [Companies With Devs In Fort Wayne](#companies-with-devs-in-fort-wayne)
 
 ## Resources for Organization
 
-* {az}devs - [https://azdevs.org/](https://azdevs.org/)
-* Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
-* Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
-* phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
-* #yesphx - [http://yesphx.com/](http://yesphx.com/)
+* Start Fort Wayne - [https://startfortwayne.com/](https://startfortwayne.com/)
 
 ## Coworking Spaces
 
-* AMC Theaters - Arizona Center
-* Arizona Center
-* Arizona Science Center
-* AZ CoWork - [https://www.azcowork.com/](https://www.azcowork.com/)
-* BRIC - [http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric](http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric)
-* Canyon Cafe
-* CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
-* Deskhub
-* Events on Jackson
-* FABRIC
-* Galvanize Phoenix - [https://www.galvanize.com/phoenix/campus](https://www.galvanize.com/phoenix/campus)
-* Gangplank - [http://gangplankhq.com/](http://gangplankhq.com/)
-* Hard Rock Cafe
-* Herberger Theater Center
-* Heritage Square
-* Infinity Coworking - [https://www.infinitycoworking.com/](https://www.infinitycoworking.com/)
-* Lucky Strike
-* Lustre Bar
-* monOrchid - [http://www.monorchid.com/](http://www.monorchid.com/)
-* The Children's Museum of Phoenix
-* The Department - [http://departmentphx.com/](http://departmentphx.com/)
-* The Newton - [http://www.thenewtonphx.com/](http://www.thenewtonphx.com/)
-* Warehouse 215
+* Atrium [https://atriumfw.com/](https://atriumfw.com/)
 
 ## Job Boards And Recruiting
 
-* CO+HOOTS Job board - [https://cohoots.com/jobs-board/](https://cohoots.com/jobs-board/)
-* VincentBenjamin - [http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/](http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/)
+* Creative Financial Staffing - [https://www.cfstaffing.com/](https://www.cfstaffing.com/)
+* TEKsystems - [https://www.teksystems.com/en](https://www.teksystems.com/en)
 
 ## Dev Friendly Spaces
 
-* Be Coffee - [http://www.conceptuallysocial.com/](http://www.conceptuallysocial.com/)
-* Cartel Coffee - [https://www.cartelcoffeelab.com/](https://www.cartelcoffeelab.com/)
-* Desert Eagle Brewing Company - [http://www.deserteaglebrewing.com/](http://www.deserteaglebrewing.com/)
-* First Draft - [http://www.changinghands.com/firstdraftbar](http://www.changinghands.com/firstdraftbar)
-* Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
-* McFate Brewing Company - [https://mcfatebrewing.com/](https://mcfatebrewing.com/)
-* Oro Brewing Company - [http://orobrewing.com/](http://orobrewing.com/)
-* Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
-* The Shop Beer Co. - [http://www.theshop.beer/](http://www.theshop.beer/)
-
 ## Hackerspaces And Makerspaces
 
-* Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
-* Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
+* TekVenture - [http://tekventure.org/](http://tekventure.org/)
 
 ## Code Academies
 
-* Dev Mountain - [https://devmountain.com/phoenix-bootcamp](https://devmountain.com/phoenix-bootcamp)
-* Galvanize Phoenix - [https://www.galvanize.com/phoenix/full-time](https://www.galvanize.com/phoenix/full-time)
-* Interface Technical Training (Windows/Ops focus) - [https://www.interfacett.com/](https://www.interfacett.com/)
-* University of Arizona Coding Boot Camp - [https://codingbootcamp.ce.arizona.edu/](https://codingbootcamp.ce.arizona.edu/)
-
 ## Dev Shops In Fort Wayne
 
-* Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
-* AKOS - [https://akosweb.com/](https://akosweb.com/)
-* Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
-* Brushfire - [http://brushfireinteractive.com/](http://brushfireinteractive.com/)
-* Clairvoyant - [http://clairvoyantsoft.com/](http://clairvoyantsoft.com/)
-* Coplex - [https://www.coplex.com/](https://www.coplex.com/)
-* Iced Development - [https://iceddev.com](https://iceddev.com)
-* meltmedia - [https://meltmedia.com](https://meltmedia.com)
-* Nerdery - [https://www.nerdery.com/](https://www.nerdery.com/)
-* Synapse Studios - [https://synapsestudios.com](https://synapsestudios.com)
-* Velocity Labs - [http://velocitylabs.io](http://velocitylabs.io)
+* Aptera - [https://www.apterainc.com/](https://www.apterainc.com/)
+* Rural Sourcing - [https://www.ruralsourcing.com/](https://www.ruralsourcing.com/)
 
 ## Meetups
 
-* Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
-* DesertPy - [https://www.meetup.com/Phoenix-Python-Meetup-Group/](https://www.meetup.com/Phoenix-Python-Meetup-Group/)
-* Desert Rustaceans - [https://www.meetup.com/Desert-Rustaceans/](https://www.meetup.com/Desert-Rustaceans/) ([Meetup Notes](https://github.com/azdevs/desert-rustaceans))
-* Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
-* Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
-* Google Developer Group - [https://www.meetup.com/PHX-Android/](https://www.meetup.com/PHX-Android/)
-* IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
-* Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
-* Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
-* Ruby AZ - [https://www.meetup.com/Ruby-AZ/](https://www.meetup.com/Ruby-AZ/)
-* Phoenix JavaScript - [http://phoenixjavascript.org](http://phoenixjavascript.org)
-* Phoenix TypeScript - [https://www.meetup.com/Phoenix-TypeScript/](https://www.meetup.com/Phoenix-TypeScript/)
-* Phoenix ReactJS - [https://www.meetup.com/Phoenix-ReactJS/](https://www.meetup.com/Phoenix-ReactJS/)
+* .NET Users of Fort Wayne - [http://nufw.net/Events.aspx](http://nufw.net/Events.aspx)
+* Fort Wayne Makers Meetup - [https://www.meetup.com/meetup-group-FTCtVLiQ/](https://www.meetup.com/meetup-group-FTCtVLiQ/)
+* OpenHack Fort Wayne - [https://www.meetup.com/OpenHack-Fort-Wayne/](https://www.meetup.com/OpenHack-Fort-Wayne/)
+* PyData Fort Wayne - [https://www.meetup.com/PyData-Fort-Wayne/](https://www.meetup.com/PyData-Fort-Wayne/)
 
 ## Conferences
 
-* Desert Code Camp - [https://oct2019.desertcodecamp.com/home](https://oct2019.desertcodecamp.com/home) - Oct 12th, 2019
-* HalfStack Phoenix - [https://halfstackconf.com/phoenix/](https://halfstackconf.com/phoenix/) - Jan 17th, 2020
-* Phoenix Mobile Festival - [http://phxmobifestival.com/](http://phxmobifestival.com/) - Oct 26th, 2019
-
 ## Homegrown Open-Source Software
-
-* [AOM](http://www.constructionprofitability.com) - Making construction operations more profitable
-* [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
-* [computes](http://computes.io/) - Massive decentralized computing network
-* [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
-* [dojo](https://github.com/dojo/framework) - Progressive, Reactive TypeScript framework
-* [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
-* [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - Interactive branch compare
-* [gravy-tap](https://github.com/w33ble/gravy-tap) - Tap runner for Sauce Labs, uses horsey-sauce
-* [gsex](https://github.com/therealklanni/gsex) - g(it) s(tash) ex(plorer) - Interactive `git stash`
-* [Gulp](https://gulpjs.com) - Automate and enhance your workflow
-* [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows
-* [horsey-sauce](https://github.com/w33ble/horsey-sauce) - Run javascript code in a real browser on Sauce Labs, useful for testing
-* [howard](https://github.com/samrocksc/howard) - isomorphic fetch wrapper of great reknown
-* [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
-* [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
-* [open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
-* [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
-* [redux-thunks](https://github.com/w33ble/redux-thunks) - Redux action creators meets redux-thunk, best used along side redux-actions, redux-act, or similar
-* [teraslice](https://github.com/terascope/teraslice) - Scalable data processing pipelines in JavaScript.
 
 ## Companies With Devs In Fort Wayne
 
-* &yet - [https://andyet.com/](https://andyet.com/)
-* Able Android - [https://www.ableandroid.com](https://www.ableandroid.com)
-* Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
-* American Express
-* Axosoft - [https://wwww.axosoft.com](https://wwww.axosoft.com)
-* Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
-* Charles Schwab - [https://www.schwab.com](https://www.schwab.com)
-* Choice Hotels International - [https://www.choicehotels.com](https://www.choicehotels.com)
-* Citrix
-* ClearVoice - [https://www.clearvoice.com](https://www.clearvoice.com)
-* Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
-* DoubleDutch - [https://doubledutch.me/](https://doubledutch.me/)
-* DriveTime - [https://www.drivetime.com/](https://www.drivetime.com/)
-* Elastic - [https://www.elastic.co/](https://www.elastic.co/)
-* Emailage - [https://www.emailage.com/](https://www.emailage.com/)
-* Freshly - [https://www.freshly.com/](https://www.freshly.com/)
-* Formidable Labs - [https://formidable.com](https://formidable.com)
-* GoDaddy - [https://godaddy.com](https://godaddy.com)
-* Homelight - [https://www.homelight.com/](https://www.homelight.com/)
-* Invitation Homes - [https://invitationhomes.com](https://invitationhomes.com)
-* Keap - [https://keap.com](https://keap.com)
-* Nikola Motor - [https://www.nikolamotor.com](https://www.nikolamotor.com)
-* Offerpad - [https://www.offerpad.com](https://www.offerpad.com)
-* Olark - [https://olark.com](https://olark.com)
-* PayPal - [https://www.paypal.com](https://www.paypal.com)
-* Pure Chat - [https://www.purechat.com](https://www.purechat.com)
-* RetailMeNot - [https://www.retailmenot.com/](https://www.retailmenot.com/)
-* RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
-* Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
-* Sibi - [https://sibipro.com/](https://sibipro.com/)
-* SitePen - [https://sitepen.com/](https://sitepen.com/)
-* SmartRent - [https://smartrent.com/](https://smartrent.com/)
-* Tivity Health - [http://www.tivityhealth.com](http://www.tivityhealth.com)
-* Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
-* USAA - [https://www.usaa.com](https://www.usaa.com)
-* Virtuous - [http://www.virtuouscrm.com/](http://www.virtuouscrm.com/)
+* Ambassador Enterprises - [https://ambassador-enterprises.com/](https://ambassador-enterprises.com/)
+* Annie's - [https://www.annies-publishing.com/](https://www.annies-publishing.com/)
+* Brotherhood Mutual - [https://www.brotherhoodmutual.com/](https://www.brotherhoodmutual.com/)
+* Corsica Technologies - [https://www.corsicatech.com/](https://www.corsicatech.com/)
+* Do It Best - [https://www.doitbest.com/](https://www.doitbest.com/)
+* Ferguson - [https://fai2.com/](https://fai2.com/)
+* JH Specialty - [https://www.jhspecialty.com/](https://www.jhspecialty.com/)
+* Master Spas - [https://www.masterspas.com/](https://www.masterspas.com/)
+* Parkview Health - [https://www.parkview.com/](https://www.parkview.com/)
+* PHD, Inc. - [https://www.phdinc.com/](https://www.phdinc.com/)
+* Raytheon - [http://www.raytheon.com/](http://www.raytheon.com/)
+* Reusser Design - [https://reusserdesign.com/](https://reusserdesign.com/)
+* Ruoff Mortgage - [https://www.ruoff.com/](https://www.ruoff.com/)
+* Steel Dynamics - [https://www.steeldynamics.com/](https://www.steeldynamics.com/)
+* Sweetwater - [https://www.sweetwater.com/](https://www.sweetwater.com/)
+* Vera Bradley - [https://verabradley.com/](https://verabradley.com/)
+* WaterFurnace - [https://www.waterfurnace.com/](https://www.waterfurnace.com/)
